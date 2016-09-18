@@ -1,0 +1,12 @@
+baseURL: http://httpbin.org/
+apidata:
+  - name: Get_IP
+    endpoint: /ip
+    httpMethod: GET
+  - name: Post_Data
+    endpoint: /post
+    header: json
+    httpMethod: POST
+    csvHeaders: id,name,house
+server:
+  port: 0

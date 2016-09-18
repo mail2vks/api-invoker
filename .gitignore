@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+classes/
+gradle/
+gradlew
+gradlew.bat
+*response*.csv
+.DS_Store
