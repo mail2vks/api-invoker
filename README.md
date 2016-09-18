@@ -1,6 +1,6 @@
 # api-invoker
 
-A java project to invoke Rest API's (See [supported methods](#supported-methods) and capture response in a csv file.
+A java project to invoke Rest API's (see [supported methods](#supported-methods)) and capture response in a csv file.
 
 #### supported-methods
 
