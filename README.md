@@ -8,16 +8,15 @@ A java project to invoke Rest API's (see [supported methods](#supported-methods)
 - POST
 
 #### How to build
-
 Project using gradle as a build tool.
-
 ````
 gradle clean build
 ````
-
-#### Conventions
-
-##### Api configuration
+#### How to execute
+````
+java -jar build/libs/api-invoker-<version>.jar 
+````
+#### Api configuration
 
 `application.yml` is used for configuring base rest url's and api to invoke
 
